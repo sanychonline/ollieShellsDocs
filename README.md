@@ -1,6 +1,6 @@
 # Ollie Shells Docs
 
-Public product and support site for **Ollie Shells** / **Видреня Оллі**. The character is **Видреня Оллі**, catching falling shells in a three-lane arcade game.
+Public product and support site for **Ollie Shells** / **Видреня Оллі**. The character is **Видреня Оллі**, gathering shells in a seaside three-lane arcade run.
 
 ## Site content
 
